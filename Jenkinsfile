@@ -5,7 +5,7 @@ pipeline {
         // Define Docker Hub credentials ID
         DOCKERHUB_CREDENTIALS_ID = 'docker-hub-credentials'
         // Define Docker Hub repository name
-        DOCKERHUB_REPO = 'juhanah/sweet_mendel'
+        DOCKERHUB_REPO = 'juhanah/timecal'
         // Define Docker image tag
         DOCKER_IMAGE_TAG = 'latest'
     }
